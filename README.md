@@ -1,4 +1,4 @@
-"# 🏦 Loan Management System
+# 🏦 Loan Management System
 
 A comprehensive web-based loan management platform built with React and Vite, designed to streamline the loan application, approval, and tracking process for borrowers, lenders, administrators, and analysts.
 
@@ -255,4 +255,4 @@ Project Link: [https://github.com/omprakash970/loan-management](https://github.c
 
 ---
 
-**Note**: This is a frontend application currently using mock data. Backend integration may be required for production use." 
+**Note**: This is a frontend application currently using mock data. Backend integration may be required for production use.
