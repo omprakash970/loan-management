@@ -9,6 +9,13 @@ export default function Landing() {
 				<div className="mini-stat mt-3">
 					<span className="badge text-bg-warning">Setup complete</span>
 				</div>
+
+				{/* Obvious Tailwind demo: a styled button with hover */}
+				<div className="mt-4">
+					<button className="bg-blue-600 hover:bg-blue-700 text-white font-medium rounded px-4 py-2 shadow">
+						Tailwind Button
+					</button>
+				</div>
 			</div>
 		</div>
 	)
